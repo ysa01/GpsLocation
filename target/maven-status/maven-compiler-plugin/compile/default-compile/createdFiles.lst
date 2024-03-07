@@ -1,0 +1,10 @@
+com\location\Application.class
+com\location\repository\LocationResultRepository.class
+com\location\entity\LocationResult.class
+com\location\configuration\ApiConfig.class
+com\location\entity\GpsLocation.class
+com\location\service\GpsService.class
+com\location\configuration\CorsConfig.class
+com\location\repository\GpsLocationRepository.class
+com\location\controller\GpsController.class
+com\location\service\LocationResultService.class
